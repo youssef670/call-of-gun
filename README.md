@@ -1,2 +1,2 @@
-# coursera-test
-coursera test repository
+# call-of-gun
+call-of-gun repository
